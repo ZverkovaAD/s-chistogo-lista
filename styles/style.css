@@ -58,7 +58,7 @@
   margin-top: 24px;
   margin-right: 20px;
   margin-bottom: 24px;
-  row-gap: 12px; 
+  row-gap: 12px;
 }
 
 .header__menu-item_active {
@@ -142,7 +142,6 @@
   width: 320px;
   font-family: Inter, sans-serif;
   color: var(--text-gray, #CCC);
-  font-family: Inter, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
